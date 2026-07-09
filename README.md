@@ -34,3 +34,10 @@ The **fetchQuote()** asynchronous method handles the network request using the *
 The response is decoded using **dart:convert** (JSON decoder).
 
 Robust error handling is implemented. If the API fails or the device is offline, the app gracefully updates the state to show an error message instead of crashing.
+
+## Screenshots
+
+<p align="center">
+  <img src="assets/Example1.jpeg" alt="First Screenshot" width="45%" />
+  <img src="assets/Example.jpeg" alt="Second Screenshot" width="45%" />
+</p>
